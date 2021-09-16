@@ -10,3 +10,6 @@
 |  Красный (Корка)                 | #FB7035     | ![#FB7035](https://via.placeholder.com/35/FB7035/000000?text=+)             |
 |  Церулеанский иней               | #7292C4     | ![#7292C4](https://via.placeholder.com/35/7292C4/000000?text=+)             |
 |  Научный синий                   | #0257D0     | ![#0257D0](https://via.placeholder.com/35/0257D0/000000?text=+)             |
+|  Мальчик-с-пальчик               | #324938     | ![#324938](https://via.placeholder.com/35/324938/000000?text=+)             |
+|  Фруктовый салат                 | #52AE52     | ![#52AE52](https://via.placeholder.com/35/52AE52/000000?text=+)             |
+|  Облачный взрыв                  | #212C45     | ![#212C45](https://via.placeholder.com/35/212C45/000000?text=+)             |

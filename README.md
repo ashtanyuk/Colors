@@ -17,3 +17,5 @@
 |  Полночный синий                 | #1B5365     | ![#1B5365](https://via.placeholder.com/35/1B5365/000000?text=+)             |
 |  Самородок                       | #BE9B1D     | ![#BE9B1D](https://via.placeholder.com/35/BE9B1D/000000?text=+)             |
 |  Пурпурное сердце                | #6136C0     | ![#6136C0](https://via.placeholder.com/35/6136C0/000000?text=+)             |
+|  Черника                         | #5681F7     | ![#5681F7](https://via.placeholder.com/35/5681F7/000000?text=+)             |
+|  Пицца                           | #FA8D00     | ![#FA8D00](https://via.placeholder.com/35/FA8D00/000000?text=+)             |

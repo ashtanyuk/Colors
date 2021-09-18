@@ -13,3 +13,7 @@
 |  Мальчик-с-пальчик               | #324938     | ![#324938](https://via.placeholder.com/35/324938/000000?text=+)             |
 |  Фруктовый салат                 | #52AE52     | ![#52AE52](https://via.placeholder.com/35/52AE52/000000?text=+)             |
 |  Облачный взрыв                  | #212C45     | ![#212C45](https://via.placeholder.com/35/212C45/000000?text=+)             |
+|  Настоящий кобальт               | #0047AB     | ![#0047AB](https://via.placeholder.com/35/0047AB/000000?text=+)             |
+|  Полночный синий                 | #1B5365     | ![#1B5365](https://via.placeholder.com/35/1B5365/000000?text=+)             |
+|  Самородок                       | #BE9B1D     | ![#BE9B1D](https://via.placeholder.com/35/BE9B1D/000000?text=+)             |
+|  Пурпурное сердце                | #6136C0     | ![#6136C0](https://via.placeholder.com/35/6136C0/000000?text=+)             |

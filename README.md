@@ -19,3 +19,6 @@
 |  Пурпурное сердце                | #6136C0     | ![#6136C0](https://via.placeholder.com/35/6136C0/000000?text=+)             |
 |  Черника                         | #5681F7     | ![#5681F7](https://via.placeholder.com/35/5681F7/000000?text=+)             |
 |  Пицца                           | #FA8D00     | ![#FA8D00](https://via.placeholder.com/35/FA8D00/000000?text=+)             |
+|  Сан-Хуан                        | #345976     | ![#345976](https://via.placeholder.com/35/345976/000000?text=+)             |
+|  Полночный синий                 | #1D447A     | ![#1D447A](https://via.placeholder.com/35/1D447A/000000?text=+)             |
+|  Диско                           | #651753     | ![#651753](https://via.placeholder.com/35/651753/000000?text=+)             |
